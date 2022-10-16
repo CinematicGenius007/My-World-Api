@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "password": "$2a$10$5x5X7xp2pbOmw3HGX0mskuZFzoCPfHGlIO7PdE1jW4UALOk.PXqfK",
+      "firstName": "Ayush",
+      "lastName": "Saini",
+      "email": "ayush3642.be20@chitkara.edu.in",
+      "phone": "8572025158",
+      "address": "home",
+      "username": "crazy",
+      "id": "b33e6f5e-9d86-4378-9ab3-d251ab03adf5"
+    }
+  ],
+  "universes": []
+}

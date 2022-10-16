@@ -1,0 +1,21 @@
+{
+  "name": "my-world-api",
+  "version": "1.0.0",
+  "description": "This serves as backend for the My-World Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "json-server --watch database/db.json --port 3030",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "api",
+    "database",
+    "json",
+    "backend"
+  ],
+  "author": "CinematicGenius007",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
